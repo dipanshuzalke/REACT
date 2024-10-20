@@ -1,4 +1,4 @@
 
 
-![Screenshot of the app](images/brand_page.jpg)
+![Screenshot of the app](public/images/brand_page.jpg)
 
