@@ -1,3 +1,3 @@
 
 
-![Screenshot of the app](brand_page.png)
+![Screenshot of the app](/images/brand_page.png)
